@@ -1,2 +1,2 @@
 # intro
-It describes the introduction part of module-1 of GCE training.
+It describes all 7 modules for GCE training.
